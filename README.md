@@ -5,4 +5,7 @@
           architecto provi
         soluta, voluptate ratione earum! Quasi unde vero optio eos enim 
         non!</h1>
+  <script>
+            alert("hello pitches")
+        </script>
 </body>
